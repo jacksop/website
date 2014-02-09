@@ -1,0 +1,28 @@
+section {
+  color: #3c3c3c;
+  background-color: #fff;
+  padding: 2.5rem 0; }
+  
+section:not(#mbs-head) h1 {
+  color:#262626; }
+
+section:nth-child(even) {
+  color: #3c3c3c;
+  background-color: #ededed; }
+
+section#mbs-head {
+  text-align: center; }
+
+img#mbs-logo {
+  height: 120px;
+  width: 242px;
+  display: block;
+  margin: 30px auto; }
+
+footer {
+  color: #fff;
+  background-color: #000;
+  text-align: center; }
+
+footer p {
+  font-size: 75%; }
